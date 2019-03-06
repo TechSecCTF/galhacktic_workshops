@@ -85,6 +85,10 @@ See [CTF pwn tips](https://github.com/TechSecCTF/CTF-pwn-tips/wiki/Cpp-Reversing
   
 ## Further material:
 
+### Patching code
+
+IDA is not the tool to use for this. 010 editor is a good hex editor. Binary Ninja allows you to modify the disassembly or automatically NOP out instructions (and it has Undo!).
+
 ### IDAPython scripting
 
 A useful thing you might want to do is dump memory/registers at a specific breakpoint that is hit many times.

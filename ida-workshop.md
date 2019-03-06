@@ -77,6 +77,7 @@ For Windows binaries, try `vc32_14` and `vc32ucrt`, or the 64-bit versions, to a
 
 **More links**:
 [The ultimate IDA Pro book](https://repo.zenk-security.com/Reversing%20.%20cracking/The%20IDA%20Pro%20Book-2nd%20Edition-2011.pdf)
+
 [IDA hotkeys cheatsheet](https://www.hex-rays.com/products/ida/support/freefiles/IDA_Pro_Shortcuts.pdf)
 
 ## Cpp Reversing
@@ -113,7 +114,9 @@ When you run the debugger (hotkey `F9`), the action will be performed at every b
 
 IDA Python resource links:
 https://researchcenter.paloaltonetworks.com/2016/01/using-idapython-to-make-your-life-easier-part-3/
+
 https://reverseengineering.stackexchange.com/questions/13383/how-can-i-set-breakpoint-and-get-value-of-a-register-with-idapython
+
 http://magiclantern.wikia.com/wiki/IDAPython/intro
 
 Also, chapter 11 in [Gray Hat Python](https://repo.zenk-security.com/Magazine%20E-book/Gray%20Hat%20Python%20-%20Python%20Programming%20for%20Hackers%20and%20Reverse%20Engineers%20(2009).pdf)

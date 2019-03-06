@@ -26,7 +26,8 @@ Goal #2: When necessary, allocate enough power onto a difficult, must-solve prob
 
 Commands used in workshop:
 `/` and `;` - add comments
-`Tab` - pseudocode
+`Space`- Toggle graph view. **To get addresses in disassembly mode, `Options->General` and check `Line Prefixes (graph)`**
+`Tab` - Toggle pseudocode
 `x` - cross-reference
 `n` - rename variable/function
 `y` - change type declaration
